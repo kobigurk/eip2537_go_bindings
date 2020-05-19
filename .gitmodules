@@ -1,0 +1,3 @@
+[submodule "eip2537go/go-ethereum"]
+	path = eip2537go/go-ethereum
+	url = https://github.com/kilic/go-ethereum
